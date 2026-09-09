@@ -6,11 +6,11 @@ from Real Images Images of Hollywood actors and actress which the Discriminator 
 these Fake Images to be Real Images.
 Some Real Face Images of one of the Celebrity (i.e Tom Cruise) from the Celebrity Dataset (Source:Kaggle) using
 which the Deep Convolutional Generative Adversial Network was trained on.
-<img width="474" height="569" alt="005_2464c583" src="https://github.com/user-attachments/assets/27559524-ddfd-452f-912a-99493ef9b935" />
-<img width="474" height="474" alt="004_dc64d954" src="https://github.com/user-attachments/assets/2c05bbf7-e1c8-45fe-bdd7-2da49d7d6854" />
-<img width="474" height="555" alt="003_ed3fb7b1" src="https://github.com/user-attachments/assets/2656f3b7-ab7e-403c-aa46-371c4227f572" />
-<img width="474" height="474" alt="002_6749a2c4" src="https://github.com/user-attachments/assets/715a249e-9472-4776-b887-bad19ddf00f0" />
-<img width="474" height="576" alt="001_08212dcd" src="https://github.com/user-attachments/assets/f7f91939-97e8-4050-acd6-a22e1d415c86" />
+<img width="45" height="45" alt="005_2464c583" src="https://github.com/user-attachments/assets/27559524-ddfd-452f-912a-99493ef9b935" />
+<img width="45" height="45" alt="004_dc64d954" src="https://github.com/user-attachments/assets/2c05bbf7-e1c8-45fe-bdd7-2da49d7d6854" />
+<img width="45" height="45" alt="003_ed3fb7b1" src="https://github.com/user-attachments/assets/2656f3b7-ab7e-403c-aa46-371c4227f572" />
+<img width="45" height="45" alt="002_6749a2c4" src="https://github.com/user-attachments/assets/715a249e-9472-4776-b887-bad19ddf00f0" />
+<img width="45" height="45" alt="001_08212dcd" src="https://github.com/user-attachments/assets/f7f91939-97e8-4050-acd6-a22e1d415c86" />
 
 # Dataset Description:
 This dataset (Source:Kaggle) contains images of 18 Hollywood celebrities with 100 images of each celebrity. The people in this dataset are:
